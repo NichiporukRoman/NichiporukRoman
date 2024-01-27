@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/NiCHUY" target="_blank">Roman</a> 👋</h1>
 <h3 align="center">Student of Belarusian State University</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY)]
 <!--
 **NiCHUY/NiCHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
