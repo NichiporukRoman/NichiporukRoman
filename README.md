@@ -11,7 +11,7 @@ Chat-bot of tourist routes of Belarus! We will gladly show you all the most beau
 Team project. The app is a set of mini-games on geographical topics: defining the flag of the country, knowing the fact about it, knowing the country’s territory and characteristics. The app provides the ability to register a user, authenticate them subsequently, and save progress in minigames, as well as games without registering
 without retaining progress.
 ___
-###  Looking for a back-end or mobile development internship with the possibility of further employment
+###  Looking for a back-end or mobile development internship with the possibility of further employment. Here you can find my <a href="https://github.com/NiCHUY/NiCHUY/blob/main/CV.pdf" target="_blank">cv</a>
 
 <!--
 **NiCHUY/NiCHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
