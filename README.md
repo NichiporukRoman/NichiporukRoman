@@ -4,7 +4,7 @@ ___
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&layout=donut)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&hide=CMake,MakeFile&size_weight=1&count_weight=1&layout=compact)
 ___
-## My repositories:
+## My projects:
 ### <a href="https://github.com/NiCHUY/TheWayBy" target="_blank">TheWayBy</a>
 Chat-bot of tourist routes of Belarus! We will gladly show you all the most beautiful corners of our unique country Immerse yourself in a real journey and discover Belarus!
 ### <a href="https://github.com/NiCHUY/WG" target="_blank">WorldGuru</a>
