@@ -2,7 +2,7 @@
 ### Student of Belarusian State University
 ___
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&layout=donut)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&hide=CMake,MakeFile&size_weight=1&count_weight=1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&hide=CMake,MakeFile&size_weight=1&count_weight=0&layout=compact)
 ___
 ## My projects:
 ### <a href="https://github.com/NiCHUY/TheWayBy" target="_blank">TheWayBy</a>
