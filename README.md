@@ -1,19 +1,19 @@
-# Hi there, I'm <a href="https://github.com/NiCHUY" target="_blank">Roman</a> 👋
+# Hi there, I'm <a href="https://github.com/NichiporukRoman" target="_blank">Roman</a> 👋
 ### Student of Belarusian State University
 ___
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&layout=donut)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichiporukRoman&hide=CMake,MakeFile&size_weight=1&count_weight=0&layout=compact)
 ___
 ## My projects:
-### <a href="https://github.com/NiCHUY/TheWayBy" target="_blank">TheWayBy</a>
+### <a href="https://github.com/NichiporukRoman/TheWayBy" target="_blank">TheWayBy</a>
 Chat-bot of tourist routes of Belarus! We will gladly show you all the most beautiful corners of our unique country Immerse yourself in a real journey and discover Belarus!
-### <a href="https://github.com/NiCHUY/WG" target="_blank">WorldGuru</a>
+### <a href="https://github.com/NichiporukRoman/WG" target="_blank">WorldGuru</a>
 Team project. The app is a set of mini-games on geographical topics: defining the flag of the country, knowing the fact about it, knowing the country’s territory and characteristics. The app provides the ability to register a user, authenticate them subsequently, and save progress in minigames, as well as games without registering
 without retaining progress.
-### <a href="https://github.com/NiCHUY/BSU-Projects" target="_blank">BSU Projects</a>
+### <a href="https://github.com/NichiporukRoman/BSU-Projects" target="_blank">BSU Projects</a>
 This repository consists of almost all of my laboratory work that I performed during my studies at BSU.
 ___
-###  Looking for a back-end or mobile development internship with the possibility of further employment. Here you can find my <a href="https://github.com/NiCHUY/NiCHUY/blob/main/CV.pdf" target="_blank">cv</a>
+###  Looking for a back-end or mobile development internship with the possibility of further employment. Here you can find my <a href="https://github.com/NichiporukRoman/NichiporukRoman/blob/main/CV.pdf" target="_blank">cv</a>
 
 <!--
 **NiCHUY/NiCHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
