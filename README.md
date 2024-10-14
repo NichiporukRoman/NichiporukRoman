@@ -13,7 +13,6 @@ without retaining progress.-->
 ### <a href="https://github.com/NichiporukRoman/BSU-Projects" target="_blank">BSU Projects</a>
 This repository consists of almost all of my laboratory work that I performed during my studies at BSU.
 ___
-###  Looking for a back-end or mobile development internship with the possibility of further employment. Here you can find my <a href="https://github.com/NichiporukRoman/NichiporukRoman/blob/main/CV.pdf" target="_blank">cv</a>
 
 <!--
 **NiCHUY/NiCHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
